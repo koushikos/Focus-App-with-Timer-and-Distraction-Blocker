@@ -9,7 +9,7 @@ The **Focus App** is a productivity-driven mobile application designed to help u
 
 This app acts as a **personal productivity assistant**, guiding users to build deep work habits and maintain consistency.
 
----
+--- 
 
 ## 🎯 Objective
 The main goal of this app is to:
