@@ -12,7 +12,7 @@ This app acts as a **personal productivity assistant**, guiding users to build d
 --- 
 
 ## 🎯 Objective
-The main goal of this app is to:
+The main goal of this app is to: 
 - Improve user focus and concentration  
 - Reduce digital distractions  
 - Help users manage time effectively  
