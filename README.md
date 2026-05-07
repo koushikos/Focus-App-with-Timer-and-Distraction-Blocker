@@ -4,7 +4,7 @@
 The **Focus App** is a productivity-driven mobile application designed to help users concentrate on their work by minimizing distractions and managing time efficiently. It combines three essential elements:
 
 - ⏱️ Focus Timer (Pomodoro Technique)
-- 🚫 Distraction Blocker (Apps/Websites)
+- 🚫 Distraction Blocker (Apps/Websites) 
 - ✅ Task & Goal Management
 
 This app acts as a **personal productivity assistant**, guiding users to build deep work habits and maintain consistency.
